@@ -1,0 +1,26 @@
+DFS(start_node):
+    1. 创建一个空栈 stack
+    2. 
+    3. 创建一个 visited 集合，用来记录已访问的节点
+    4. while 栈 stack 不为空:
+        5. 从栈中弹出一个节点 current_node
+        6. 如果 current_node 没有被访问过:
+            7. 标记 current_node 为已访问
+            8. 对于 current_node 的每一个相邻节点 neighbor:
+                9. 如果 neighbor 没有被访问过:
+                    10. 将 neighbor 压入栈 stack
+dfs(start_node)
+    //创建一个空栈 stack
+    stack []
+    //创建一个 visited 集合，用来记录已访问的节点
+    visited []
+    //将 start_node 压入栈 stack
+    stack.push(start_node)
+    while(!stack.empty())
+        current_node = stack.pop()
+        visited.insert(current_node)
+        for(neighbor : current_node.neighbors)
+            if(!neighbor in visited)
+                stack.push(neighbor)
+                
+
