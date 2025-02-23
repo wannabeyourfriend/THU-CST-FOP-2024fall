@@ -2,7 +2,7 @@
 
 > FOP是清华大学计算机系第一门编程课程，全名为程序设计基础，主要讲授面向过程的程序设计，并介绍常用算法如枚举、回溯、动态规划等。
 
-## exam
+## Exam
 
 考试共5道oj题，前4题较为基础，第5题是一个带有坑的跳马问题的变种，需要用动态规划完成
 
@@ -10,8 +10,9 @@
 
 作业共12次PA，每次4题左右，后4次PA思维难度较大
 
-## project 
+## Project 
 大作业是对一个著名的编程游戏的还原，见如下仓库
+[github](https://github.com/wannabeyourfriend/Human-Resource-Machine)
 
 ## note
 
