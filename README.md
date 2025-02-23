@@ -12,7 +12,8 @@
 
 ## Project 
 大作业是对一个著名的编程游戏的还原，见如下仓库
-[github](https://github.com/wannabeyourfriend/Human-Resource-Machine)
+
+[Human-Resource-Machine](https://github.com/wannabeyourfriend/Human-Resource-Machine)
 
 ## note
 
