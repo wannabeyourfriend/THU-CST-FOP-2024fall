@@ -1,34 +1,56 @@
 # THU-CST-FOP-2024fall
 
-> FOP是清华大学计算机系第一门编程课程，全名为程序设计基础，主要讲授面向过程的程序设计，并介绍常用算法如枚举、回溯、动态规划等。
+This repository contains course materials, assignments, and projects for the **Fundamentals of Programming (FOP)** course at Tsinghua University Department of Computer Science and Technology.
 
-## Exam
+## Description
 
-考试共5道oj题，前4题较为基础，第5题是一个带有坑的跳马问题的变种，需要用动态规划完成
+FOP (程序设计基础) is the first programming course in the Computer Science department at Tsinghua University. The course focuses on procedural programming and introduces fundamental algorithms including enumeration, backtracking, dynamic programming, and more.
 
-## PA
+## Features
 
-作业共12次PA，每次4题左右，后4次PA思维难度较大
+### Exam
+The final examination consists of 5 online judge (OJ) problems:
+- The first 4 problems cover fundamental concepts
+- The 5th problem is a variant of the knight's move problem with tricky edge cases, requiring dynamic programming
 
-## Project 
-大作业是对一个著名的编程游戏的还原，见如下仓库
+### Programming Assignments (PA)
+The course includes 12 programming assignments:
+- Each assignment typically contains 4 problems
+- The final 4 assignments involve more complex algorithmic thinking
+
+### Project
+The course project is a recreation of a famous programming game:
 
 [Human-Resource-Machine](https://github.com/wannabeyourfriend/Human-Resource-Machine)
 
-## note
+## Notes
 
-FOP的期末oj上机考试是开卷，可以自己准备资料
+- The final OJ examination is **open-book**, allowing students to reference their own prepared materials
 
-### 清华大学学生纪律处分管理规定实施细则
+### Academic Integrity
 
-#### 第六章　学术不端、违反学习纪律的行为与处分
+According to the *Implementation Rules of Tsinghua University Student Discipline Management Regulations*:
 
-第二十一条 有下列违反课程学习纪律情形之一的，给予警告以上、留校察看以下处分：
+**Chapter VI: Academic Misconduct and Violations of Learning Discipline**
 
-（一）课程作业抄袭严重的；
+**Article 21:** Students who commit any of the following violations of course learning discipline shall receive disciplinary action ranging from warning to probation:
+1. Serious plagiarism in course assignments
+2. Serious plagiarism in laboratory reports or falsification of experimental data
+3. Serious plagiarism in mid-term or final course papers
+4. Other serious acts of falsification during the course of learning
 
-（二）实验报告抄袭严重或者篡改实验数据的；
+## Usage
 
-（三）期中、期末课程论文抄袭严重的；
+This repository is organized for educational purposes. Navigate through the directories to access:
+- Exam materials
+- Programming assignments (PA1-PA12)
+- Project files
+- Reference materials
 
-（四）在课程学习过程中严重弄虚作假的其他情形。
+## License
+
+This repository is for educational use. Please adhere to academic integrity guidelines and the university's code of conduct.
+
+## Disclaimer
+
+This is a student-maintained repository for the Fall 2024 semester. For official course information, please refer to the course instructor and official Tsinghua University resources.
